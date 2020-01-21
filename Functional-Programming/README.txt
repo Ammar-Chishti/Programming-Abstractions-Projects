@@ -1,0 +1,1 @@
+The main focus of this assignment is to highlight programming that is done functionally rather than imperatively. In Java, this is achieved through the stream API and lambda expressions. In Python, functional programming can be achieved through plain recursion and lambda expressions as well

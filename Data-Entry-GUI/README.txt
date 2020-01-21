@@ -1,0 +1,1 @@
+For the final topic of the semester, I will be exploring aspects of GUI and event driven programming using JavaFX to create a simple page that checks the validity of people's name and phone numbers. My favorite part about this assignment was using JUnit to test code functionality
